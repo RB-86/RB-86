@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Ecommerce -website**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Html,CSS**
 
 - 👯 I’m looking to collaborate on **All projects**
 
 - 🤝 I’m looking for help with **New Frameworks**
 
-- 💬 Ask me about **Next.js**
+- 💬 Ask me about **Html,css**
 
 - 📫 How to reach me **rabiafahad889@gmail.com**
 
